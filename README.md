@@ -1,4 +1,4 @@
-philo
+pai
 =====
 
 Philosophy and Ideas
